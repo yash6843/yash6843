@@ -7,9 +7,11 @@
 
 - 📫 How to reach me **yash.ishwar.shah@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-shah-6aaa3b2b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-shah-6aaa3b2b0/" height="30" width="40" /></a>
+# Discord
+<p align="center">
+   <a href="https://discord.com/users/703600921837568080">
+      <img src="https://lanyard.cnrad.dev/api/780356848737058857?animated=true&hideDiscrim=true&bg=010409" />
+   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
