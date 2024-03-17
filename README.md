@@ -10,7 +10,7 @@
 # Discord
 <p align="center">
    <a href="https://discord.com/users/703600921837568080">
-      <img src="https://discord-activity.deno.dev/api/703600921837568080?bgColor=1b1c1e&borderRadius=0&idleMessage=Sleepin%20or%20Grinding!!%20%E2%9A%A1%EF%B8%8F" />
+      <img src="https://discord-activity.deno.dev/api/703600921837568080?bgColor=1b1c1e&borderRadius=10&idleMessage=Sleepin%20or%20Grinding!!%20%E2%9A%A1%EF%B8%8F" />
    </a>
 </p>
 
