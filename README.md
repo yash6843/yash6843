@@ -10,7 +10,6 @@
 # Discord
 <p align="center">
    <a href="https://discord.com/users/703600921837568080">
-      <img src="https://lanyard.cnrad.dev/api/780356848737058857?animated=true&hideDiscrim=true&bg=010409" />
    </a>
 </p>
 
